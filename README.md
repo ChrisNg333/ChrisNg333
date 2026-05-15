@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Cuong, but most people call me Chris 👋
 
-<!--
-**ChrisNg333/ChrisNg333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate interested in full-stack development, backend systems, cloud technologies, and AI-related projects.
 
-Here are some ideas to get you started:
+### Tech I Use
+- Languages: Java, Python, C/C++, SQL
+- Frontend: React, HTML/CSS
+- Backend: Node.js, Firebase, PostgreSQL
+- Cloud/Tools: AWS, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building personal projects and experimenting with new technologies
+- Learning more about scalable backend systems and AI integration
+- Improving my AWS and cloud development skills
+- Grinding LeetCode sometimes against my will
+
+📫 Reach me: cnchris333@gmail.com
